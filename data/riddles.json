@@ -1,0 +1,638 @@
+[
+    {
+        "name": "Juice",
+        "riddle": "🍎+🥕+🍊"
+    },
+    {
+        "name": "Lemonade",
+        "riddle": "🍋+🍯"
+    },
+    {
+        "name": "Wine",
+        "riddle": "🍇+🍷"
+    },
+    {
+        "name": "Latte",
+        "riddle": "☕️+🥛"
+    },
+    {
+        "name": "Chocolate Milk",
+        "riddle": "🍫+🥛"
+    },
+    {
+        "name": "Piña Colada",
+        "riddle": "🍍+🥥"
+    },
+    {
+        "name": "Mimosa",
+        "riddle": "🍹+🍊"
+    },
+    {
+        "name": "Milkshake",
+        "riddle": "🥤+🍦"
+    },
+    {
+        "name": "Tea",
+        "riddle": "🍵+🍵+🍵"
+    },
+    {
+        "name": "Smoothie",
+        "riddle": "🍹+🍓+🍌"
+    },
+    {
+        "name": "Beer",
+        "riddle": "🍺+🍺"
+    },
+    {
+        "name": "Whiskey Sour",
+        "riddle": "🥃+🍋"
+    },
+    {
+        "name": "Martini",
+        "riddle": "🍸+🍸"
+    },
+    {
+        "name": "Green Tea",
+        "riddle": "🍵+🍋"
+    },
+    {
+        "name": "Apple Cider",
+        "riddle": "🍎+🍏"
+    },
+    {
+        "name": "Hot Chocolate",
+        "riddle": "🥛+🍫"
+    },
+    {
+        "name": "Piña Colada",
+        "riddle": "🍸+🍍+🍓"
+    },
+    {
+        "name": "Sangria",
+        "riddle": "🍷+🍓+🍇"
+    },
+    {
+        "name": "Orange Creamsicle",
+        "riddle": "🍊+🥤+🍦"
+    },
+    {
+        "name": "Chamomile Tea",
+        "riddle": "🍵+🍯"
+    },
+    {
+        "name": "Whiskey",
+        "riddle": "🥃+🍒"
+    },
+    {
+        "name": "Grape Juice",
+        "riddle": "🍇+🥤"
+    },
+    {
+        "name": "Lemonade",
+        "riddle": "🍋+🍹"
+    },
+    {
+        "name": "Citrus Juice",
+        "riddle": "🍊+🍏"
+    },
+    {
+        "name": "Grape Wine",
+        "riddle": "🍷+🍇"
+    },
+    {
+        "name": "Honey Lemon Tea",
+        "riddle": "🍵+🍯+🍋"
+    },
+    {
+        "name": "Piña Colada",
+        "riddle": "🍍+🍹"
+    },
+    {
+        "name": "Mango Juice",
+        "riddle": "🍹+🥭"
+    },
+    {
+        "name": "Mocha",
+        "riddle": "☕️+🍫"
+    },
+    {
+        "name": "Matcha Latte",
+        "riddle": "🍶+🍵"
+    },
+    {
+        "name": "Apple Juice",
+        "riddle": "🍏+🍹"
+    },
+    {
+        "name": "Lemon Juice",
+        "riddle": "🍋+🍋"
+    },
+    {
+        "name": "Strawberry Shake",
+        "riddle": "🥤+🍓"
+    },
+    {
+        "name": "Lemon Martini",
+        "riddle": "🍸+🍋"
+    },
+    {
+        "name": "Tropical Smoothie",
+        "riddle": "🥭+🍍+🍹"
+    },
+    {
+        "name": "Citrus Punch",
+        "riddle": "🍊+🍍+🍌"
+    },
+    {
+        "name": "Green Apple Tea",
+        "riddle": "🍵+🍏+🍋"
+    },
+    {
+        "name": "Chocolate Peanut Butter Smoothie",
+        "riddle": "🍫+🥜+🥛"
+    },
+    {
+        "name": "Berry Shake",
+        "riddle": "🍓+🍑+🥤"
+    },
+    {
+        "name": "Mango Orange Cocktail",
+        "riddle": "🍹+🥭+🍊"
+    },
+    {
+        "name": "Cucumber Lemonade",
+        "riddle": "🍵+🥒+🍋"
+    },
+    {
+        "name": "Irish Coffee",
+        "riddle": "☕️+🥃+🍫"
+    },
+    {
+        "name": "Coconut Chai Latte",
+        "riddle": "🍵+🥥+🍌"
+    },
+    {
+        "name": "Fruit Punch",
+        "riddle": "🍇+🥭+🍍"
+    },
+    {
+        "name": "Strawberry Banana Smoothie",
+        "riddle": "🥛+🍓+🍌"
+    },
+    {
+        "name": "Citrus Sangria",
+        "riddle": "🍷+🍊+🍏"
+    },
+    {
+        "name": "Lemon Grape Juice",
+        "riddle": "🍋+🍇+🥤"
+    },
+    {
+        "name": "Cucumber Apple Cooler",
+        "riddle": "🍏+🥒+🍵"
+    },
+    {
+        "name": "Coconut Lemonade",
+        "riddle": "🍹+🍋+🥥"
+    },
+    {
+        "name": "Apple Cranberry Cocktail",
+        "riddle": "🍹+🍎+🍏"
+    },
+    {
+        "name": "Mint Tea",
+        "riddle": "☕️+🍃+🍋"
+    },
+    {
+        "name": "Tropical Juice",
+        "riddle": "🍊+🍑+🍍"
+    },
+    {
+        "name": "Citrus Mango Cocktail",
+        "riddle": "🍋+🥭+🍊"
+    },
+    {
+        "name": "Cucumber Apple Tea",
+        "riddle": "🍵+🥒+🍏"
+    },
+    {
+        "name": "Strawberry Colada",
+        "riddle": "🍹+🥥+🍓"
+    },
+    {
+        "name": "Banana Peanut Smoothie",
+        "riddle": "🥛+🍌+🥜"
+    },
+    {
+        "name": "Peach Tea",
+        "riddle": "🍵+🍑+🍋"
+    },
+    {
+        "name": "Citrus Cooler",
+        "riddle": "🍋+🥒+🍍"
+    },
+    {
+        "name": "Berry Tea",
+        "riddle": "🍵+🍒+🍓"
+    },
+    {
+        "name": "Pineapple Apple Juice",
+        "riddle": "🍎+🍍+🍋"
+    },
+    {
+        "name": "Berry Citrus Mix",
+        "riddle": "🍹+🍓+🍊"
+    },
+    {
+        "name": "Bourbon Mocha",
+        "riddle": "☕️+🥃+🍫"
+    },
+    {
+        "name": "Chai Latte",
+        "riddle": "🍵+🥛+🍵"
+    },
+    {
+        "name": "Orange Mango Cooler",
+        "riddle": "🍹+🍊+🥭"
+    },
+    {
+        "name": "Banana Pineapple Smoothie",
+        "riddle": "🍌+🍍+🍊"
+    },
+    {
+        "name": "Berry Lemonade",
+        "riddle": "🍋+🍓+🍒"
+    },
+    {
+        "name": "Cucumber Cocktail",
+        "riddle": "🍹+🥒+🍏"
+    },
+    {
+        "name": "Grapefruit Tea",
+        "riddle": "🍵+🍇+🍋"
+    },
+    {
+        "name": "Orange Peach Smoothie",
+        "riddle": "🥤+🍊+🍑"
+    },
+    {
+        "name": "Limeade",
+        "riddle": "🍏+🍋+🥤"
+    },
+    {
+        "name": "Chocolate Milk Latte",
+        "riddle": "☕️+🍫+🥛"
+    },
+    {
+        "name": "Tropical Fruit Smoothie",
+        "riddle": "🍍+🍓+🥥"
+    },
+    {
+        "name": "Mango Pineapple Tea",
+        "riddle": "🍵+🥭+🍍"
+    },
+    {
+        "name": "Grape Cocktail",
+        "riddle": "🍷+🥤+🍇"
+    },
+    {
+        "name": "Raspberry Lemonade",
+        "riddle": "🍋+🍵+🍓"
+    },
+    {
+        "name": "Berry Wine",
+        "riddle": "🍇+🍓+🍹"
+    },
+    {
+        "name": "Milk Chocolate Mocha",
+        "riddle": "☕️+🥛+🍫"
+    },
+    {
+        "name": "Pineapple Peach Tea",
+        "riddle": "🍵+🍍+🍑"
+    },
+    {
+        "name": "Citrus Berry Blend",
+        "riddle": "🍊+🍋+🍓"
+    },
+    {
+        "name": "Orange Mango Cocktail",
+        "riddle": "🍹+🍊+🥭"
+    },
+    {
+        "name": "Strawberry Iced Tea",
+        "riddle": "🍵+🥤+🍓"
+    },
+    {
+        "name": "Green Tea Latte",
+        "riddle": "☕️+🍵+🍋"
+    },
+    {
+        "name": "Tropical Lemonade",
+        "riddle": "🍋+🍍+🥭"
+    },
+    {
+        "name": "Strawberry Green Tea",
+        "riddle": "🍵+🍏+🍓"
+    },
+    {
+        "name": "Banana Pineapple Cocktail",
+        "riddle": "🍹+🍌+🍍"
+    },
+    {
+        "name": "Apple Grape Juice",
+        "riddle": "🍇+🍎+🍹"
+    },
+    {
+        "name": "Honey Tea",
+        "riddle": "☕️+🍯+🍵"
+    },
+    {
+        "name": "Lemon Cherryade",
+        "riddle": "🍋+🍵+🍒"
+    },
+    {
+        "name": "Pineapple Orange Smoothie",
+        "riddle": "🥤+🍍+🍊"
+    },
+    {
+        "name": "Berry Apple Juice",
+        "riddle": "🍏+🍇+🍓"
+    },
+    {
+        "name": "Strawberry Coconut Tea",
+        "riddle": "🍵+🍓+🥥"
+    },
+    {
+        "name": "Tropical Citrus Blend",
+        "riddle": "🍋+🍍+🍌"
+    },
+    {
+        "name": "Whiskey Tea",
+        "riddle": "☕️+🥃+🍯"
+    },
+    {
+        "name": "Cranberry Apple Cocktail",
+        "riddle": "🍹+🍎+🍓"
+    },
+    {
+        "name": "Mango Lemonade",
+        "riddle": "🍵+🥭+🍋"
+    },
+    {
+        "name": "Citrus Berry Mix",
+        "riddle": "🍊+🍓+🍇"
+    },
+    {
+        "name": "Orange Limeade",
+        "riddle": "🍹+🍊+🍋"
+    },
+    {
+        "name": "Chocolate Berry Tea",
+        "riddle": "☕️+🍇+🍫"
+    },
+    {
+        "name": "Coconut Mocha",
+        "riddle": "🍵+🍫+🥥"
+    },
+    {
+        "name": "Fruit Medley Juice",
+        "riddle": "🍇+🍊+🍓"
+    },
+    {
+        "name": "Lemon Grape Shake",
+        "riddle": "🍋+🍇+🥤"
+    },
+    {
+        "name": "Pineapple Mango Juice",
+        "riddle": "🍍+🍋+🥭"
+    },
+    {
+        "name": "Banana Apple Smoothie",
+        "riddle": "🥤+🍎+🍌"
+    },
+    {
+        "name": "Red Berry Tea",
+        "riddle": "🍵+🍒+🍇"
+    },
+    {
+        "name": "Cucumber Berry Cooler",
+        "riddle": "🍹+🥒+🍓"
+    },
+    {
+        "name": "Mixed Berry Lemonade",
+        "riddle": "🍋+🍒+🍓"
+    },
+    {
+        "name": "Spiked Latte",
+        "riddle": "☕️+🥃+🥛"
+    },
+    {
+        "name": "Tropical Punch",
+        "riddle": "🍹+🍍+🥥"
+    },
+    {
+        "name": "Citrus Grapefruit Mix",
+        "riddle": "🍊+🍇+🍋"
+    },
+    {
+        "name": "Banana Orange Tea",
+        "riddle": "🍵+🍌+🍊"
+    },
+    {
+        "name": "Berry Apple Blend",
+        "riddle": "🍎+🍓+🍇"
+    },
+    {
+        "name": "Apple Pineapple Smoothie",
+        "riddle": "🥤+🍏+🍍"
+    },
+    {
+        "name": "Lemon Chai",
+        "riddle": "🍵+🥛+🍋"
+    },
+    {
+        "name": "Tropical Lemon Blend",
+        "riddle": "🍋+🍇+🍍"
+    },
+    {
+        "name": "Tropical Citrus Juice",
+        "riddle": "🍍+🍊+🍎"
+    },
+    {
+        "name": "Chocolate Berry Mocha",
+        "riddle": "☕️+🍫+🍓"
+    },
+    {
+        "name": "Watermelon Tea",
+        "riddle": "🍵+🍉+🍋"
+    },
+    {
+        "name": "Pineapple Juice",
+        "riddle": "🍏+🍍+🥤"
+    },
+    {
+        "name": "Lemon Mangoade",
+        "riddle": "🍋+🍵+🥭"
+    },
+    {
+        "name": "Citrus Cooler",
+        "riddle": "🍹+🥤+🍋"
+    },
+    {
+        "name": "Banana Chocolate Latte",
+        "riddle": "☕️+🍌+🍫"
+    },
+    {
+        "name": "Mixed Fruit Tea",
+        "riddle": "🍵+🍓+🍑"
+    },
+    {
+        "name": "Orange Mango Smoothie",
+        "riddle": "🍊+🥭+🥤"
+    },
+    {
+        "name": "Grapefruit Juice",
+        "riddle": "🍇+🍊+🥤"
+    },
+    {
+        "name": "Berry Iced Tea",
+        "riddle": "🍵+🥤+🍇"
+    },
+    {
+        "name": "Fruit Lemonade",
+        "riddle": "🍋+🍓+🍍"
+    },
+    {
+        "name": "Apple Banana Cocktail",
+        "riddle": "🍹+🍎+🍌"
+    },
+    {
+        "name": "Chocolate Cherry Tea",
+        "riddle": "☕️+🍫+🍒"
+    },
+    {
+        "name": "Berry Herbal Tea",
+        "riddle": "🍵+🍓+🍒"
+    },
+    {
+        "name": "Peach Orange Smoothie",
+        "riddle": "🍊+🥤+🍑"
+    },
+    {
+        "name": "Berry Sangria",
+        "riddle": "🍹+🍇+🍓"
+    },
+    {
+        "name": "Honey Lemon Tea",
+        "riddle": "☕️+🍋+🍯"
+    },
+    {
+        "name": "Coconut Berry Drink",
+        "riddle": "🍋+🥥+🍓"
+    },
+    {
+        "name": "Orange Grape Smoothie",
+        "riddle": "🥤+🍊+🍇"
+    },
+    {
+        "name": "Apple Berry Tea",
+        "riddle": "🍵+🍎+🍓"
+    },
+    {
+        "name": "Banana Berry Smoothie",
+        "riddle": "🍹+🍌+🍓"
+    },
+    {
+        "name": "Tea with Whiskey",
+        "riddle": "☕️+🥃+🍵"
+    },
+    {
+        "name": "Citrus Tropical Blend",
+        "riddle": "🍊+🍋+🍍"
+    },
+    {
+        "name": "Coconut Berry Cocktail",
+        "riddle": "🍹+🥥+🍇"
+    },
+    {
+        "name": "Strawberry Lemon Tea",
+        "riddle": "🍵+🍓+🍋"
+    },
+    {
+        "name": "Apple Juice",
+        "riddle": "🍎+🍏+🍹"
+    },
+    {
+        "name": "Pineapple Banana Smoothie",
+        "riddle": "🥤+🍍+🍌"
+    },
+    {
+        "name": "Lemon Grape Tea",
+        "riddle": "🍵+🍋+🍇"
+    },
+    {
+        "name": "Cherry Pineapple Cocktail",
+        "riddle": "🍹+🍒+🍍"
+    },
+    {
+        "name": "Chocolate Milk Coffee",
+        "riddle": "☕️+🍫+🥛"
+    },
+    {
+        "name": "Coconut Banana Tea",
+        "riddle": "🍵+🥥+🍌"
+    },
+    {
+        "name": "Lemonade Shake",
+        "riddle": "🍋+🍵+🥤"
+    },
+    {
+        "name": "Berry Mango Smoothie",
+        "riddle": "🍓+🥭+🥤"
+    },
+    {
+        "name": "Citrus Apple Cocktail",
+        "riddle": "🍹+🍋+🍏"
+    },
+    {
+        "name": "Strawberry Milk Tea",
+        "riddle": "☕️+🥛+🍓"
+    },
+    {
+        "name": "Citrus Banana Tea",
+        "riddle": "🍵+🍊+🍌"
+    },
+    {
+        "name": "Orange Grape Shake",
+        "riddle": "🍇+🍊+🥤"
+    },
+    {
+        "name": "Lemon Berry Smoothie",
+        "riddle": "🍋+🍇+🍌"
+    },
+    {
+        "name": "Apple Mango Cocktail",
+        "riddle": "🍹+🍏+🥭"
+    },
+    {
+        "name": "Chocolate Berry Tea",
+        "riddle": "☕️+🍫+🍇"
+    },
+    {
+        "name": "Pineapple Mango Tea",
+        "riddle": "🍵+🍍+🥭"
+    },
+    {
+        "name": "Lemon Grapefruit Tea",
+        "riddle": "🍋+🍵+🍇"
+    },
+    {
+        "name": "Grapefruit Sangria",
+        "riddle": "🍹+🍇+🍊"
+    },
+    {
+        "name": "Cherry Banana Tea",
+        "riddle": "☕️+🍒+🍌"
+    }
+]
